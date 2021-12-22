@@ -18,12 +18,12 @@ redirect_from:
   - /github/administering-a-repository/about-protected-branches
   - /github/administering-a-repository/defining-the-mergeability-of-pull-requests/about-protected-branches
 versions:
-  fpt: '*'
+  fps: '*'
   ghes: '*'
   ghae: '*'
   ghec: '*'
 topics:
-  - Repositories
+  - Github's Creator Handbook
 ---
 ## About branch protection rules
 
